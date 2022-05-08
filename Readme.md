@@ -23,10 +23,10 @@ v programovacím jazyce Python.
 - [Úkol 11: Analýza síly testu](11/11.ipynb)
 - [Úkol 12: Zkoumání tvaru rozdělení](12/12.ipynb)
 - [Úkol 13: Testy kontingenčních tabulek](13/13.ipynb)
-- [Úkol 14: Párové testy pro nominální proměnné](14/14.ipynb)
+- Úkol 14: Párové testy pro nominální proměnné - nevypracováno
 - [Úkol 15: Wilcoxonův test a znaménkový test](15/15.ipynb)
-- [Úkol 16: Mann-Whitneyův U test](16/16.ipynb)
-- [Úkol 17: Kruskal-Wallisův test](17/17.ipynb)
+- Úkol 16: Mann-Whitneyův U test - nevypracováno
+- Úkol 17: Kruskal-Wallisův test- nevypracováno
 
 
 ### Instalace
